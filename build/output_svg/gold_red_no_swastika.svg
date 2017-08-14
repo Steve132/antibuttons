@@ -1,0 +1,33 @@
+<?xml version="1.0" ?><svg height="284" id="svg4444" version="1.1" width="284" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg">
+  <metadata id="metadata4454">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+        <cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs4452">
+    <mask id="mask5538" maskUnits="userSpaceOnUse">
+      <g id="g5540" style="stroke:#fdffff;stroke-opacity:1" transform="matrix(14.130435,0,0,14.130435,1100.7609,-4.2391305e-5)">
+        <circle cx="138" cy="138" id="circle5542" r="124" style="fill:none;stroke:#fdffff;stroke-width:28;stroke-opacity:1"/>
+        <line id="line5544" style="stroke:#fdffff;stroke-width:22;stroke-opacity:1" x1="45" x2="231" y1="45" y2="231"/>
+      </g>
+    </mask>
+  </defs><path d="m 149.48922,40.851581 -55.64999,55.649998 89.03999,89.040001 -55.64998,55.65 m -89.040022,-111.30001 55.650012,55.65001 89.03999,-89.040001 55.65,55.650001" id="path4505" style="fill:none;stroke:#000000;stroke-width:31.48039818"/>
+  <g id="gold" style="stroke:#fdd400;stroke-opacity:1" transform="translate(4,4)">
+    <circle cx="138" cy="138" id="circle4458" r="124" style="fill:none;stroke:#fdd400;stroke-width:36;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <line id="line4456" style="stroke:#fdd400;stroke-width:30;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" x1="45" x2="231" y1="45" y2="231"/>
+  </g>
+  <g id="g5941" style="stroke:#cc1009;stroke-opacity:1" transform="translate(4,4)">
+    <circle cx="138" cy="138" id="circle5931" r="124" style="fill:none;stroke:#cc1009;stroke-width:28;stroke-opacity:1"/>
+    <line id="line5933" style="stroke:#cc1009;stroke-width:22;stroke-opacity:1" x1="45" x2="231" y1="45" y2="231"/>
+  </g>
+</svg>

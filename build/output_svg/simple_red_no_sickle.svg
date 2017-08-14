@@ -1,0 +1,34 @@
+<?xml version="1.0" ?><svg height="284" id="svg4444" version="1.1" width="284" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg">
+  <metadata id="metadata4454">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+        <cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs4452">
+    <mask id="mask5538" maskUnits="userSpaceOnUse">
+      <g id="g5540" style="stroke:#fdffff;stroke-opacity:1" transform="matrix(14.130435,0,0,14.130435,1100.7609,-4.2391305e-5)">
+        <circle cx="138" cy="138" id="circle5542" r="124" style="fill:none;stroke:#fdffff;stroke-width:28;stroke-opacity:1"/>
+        <line id="line5544" style="stroke:#fdffff;stroke-width:22;stroke-opacity:1" x1="45" x2="231" y1="45" y2="231"/>
+      </g>
+    </mask>
+  </defs><g id="g3019" transform="matrix(0.46425813,0,0,0.46425813,35.427812,48.303467)">
+    <path d="m 162.423,25.163 -93.323,88.888 49.771,49.771 42.976,-43.265 c 83.815,85.069 148.96,151.207 229.89,233.345 22.405,23.231 61.421,-8.36 36.435,-35.182 C 342.667,235.39 283.399,175.243 194.316,87.878 l 52.818,-53.129 -84.711,-9.586 z" id="hammer_head" style="fill:#cc1009"/>
+    <g id="g3852" transform="matrix(0.83334944,0,0,0.83334944,89.122595,-182.30111)">
+      <path d="M 84.184,548.176 C 284.533,734.039 609.2,398.896 194.279,156.021 l 0,0 c 308.774,343.052 12.344,448.213 -94.99,342.388 l -5.409,-4.463 c -4.382,4.922 -8.773,9.831 -13.152,14.759 -8.313,-7.849 -21.231,-10.155 -25.209,3.266 -16.337,-1.129 -25.926,7.924 -30.204,24.886 -30.392,20.136 -63.295,37.803 -82.208,69.421 -10.807,33.446 10.568,47.994 34.754,45.223 39.643,-16.47 51.896,-52.068 73.113,-81.433 14.995,-4.777 27.701,-11.196 30.029,-24.847" id="sickle_handle" style="fill:#cc1009"/>
+    </g>
+  </g>
+  <g id="g5941" style="stroke:#cc1009;stroke-opacity:1" transform="translate(4,4)">
+    <circle cx="138" cy="138" id="circle5931" r="124" style="fill:none;stroke:#cc1009;stroke-width:28;stroke-opacity:1"/>
+    <line id="line5933" style="stroke:#cc1009;stroke-width:22;stroke-opacity:1" x1="45" x2="231" y1="45" y2="231"/>
+  </g>
+</svg>
