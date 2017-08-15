@@ -23,6 +23,7 @@ def build_plains():
 
     for nos in os.listdir('src/nos'):
         inname=os.path.join('src','nos',nos)
+        print(inname)
         outname=os.path.join('build/plains/nos',nos)
         build_plain(inname,outname)
 
@@ -112,7 +113,7 @@ def build_outputs_png(outs,size=2048):
  
 
 if __name__=='__main__':
-    #build_plains()
+    build_plains()
     outputs=build_outputs_svg()
-    build_outputs_png(outputs,size=2048)
+    build_outputs_png(outputs,size=512)
     
